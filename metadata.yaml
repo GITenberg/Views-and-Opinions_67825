@@ -1,0 +1,47 @@
+_repo: Views-and-Opinions_67825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Uida
+    - De la Ramée, Louisa
+    - De la Ramee, Louise
+    - Ramée, Maria Louise
+    - De La Rame, Louisa
+    - Ramé, Marie Louise
+    - De la Ramée, Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: https://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '2022-04-13'
+identifiers:
+  gutenberg: '67825'
+  lccn: '25004908'
+language: en
+pgterms:marc904: https://archive.org/details/viewsopinions00ouidiala/page/n5/mode/2up
+pgterms:marc905: 20200629042803ouida
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: KD Weeks, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Methuen & Co.,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+- GITenberg
+tableOfContents: The sins of society -- Conscription -- Gardens -- O beati insipientes!  --
+  Cities of Italy -- The failure of Christianity -- The passing of Philomel -- The
+  Italy of to-day -- The blind guides of Italy -- L'uomo fatale -- The new woman --
+  Death and pity -- Shelley -- Some fallacies of science -- Female suffrage -- Vulgarity
+  -- The state as an immoral factor -- The penalties of a well-known name -- The legislation
+  of fear.
+title: Views and Opinions
+url: http://www.gutenberg.org/ebooks/67825
